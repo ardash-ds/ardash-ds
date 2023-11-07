@@ -19,11 +19,32 @@
 
 ### :man_technologist: Обо мне:
 
-Я бэкенд разработчик Python. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Я бэкенд разработчик Python.
 - Занимаюсь бэкенд разработкой для веб приложений.
-- :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/ardash_d-blue?style=flat&logo=Telegram&logoColor=white)](ardash_d)
+- Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/ardash_d-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ardash_d)
 
-  https://t.me/ardash_d
+---
+
+### :hammer_and_wrench: Стек технологий:
+![Python](https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-006400?style=for-the-badge&logo=Django&logoColor=white)
+![Django REST framework](https://img.shields.io/badge/Django%20REST%20framework-800000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFFAFA?style=for-the-badge)
+![Rest API](https://img.shields.io/badge/Rest-API-808080?style=for-the-badge&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **ardash-ds/ardash-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
