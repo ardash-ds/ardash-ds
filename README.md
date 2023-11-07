@@ -41,7 +41,9 @@
 ### :fire: Статистика:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ardash-ds)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardash-ds&hide=css,javascript,html,mako)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardash-ds&show_icons=true&hide=css,javascript,html,mako)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 
 
