@@ -31,8 +31,10 @@
 ![Django REST framework](https://img.shields.io/badge/Django%20REST%20framework-800000?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFFAFA?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-DCDCDC?style=for-the-badge)
 ![Rest API](https://img.shields.io/badge/Rest-API-808080?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=FastAPI&logoColor=white)
+
 
 
 
