@@ -1,6 +1,5 @@
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Сергей Дмитриев
 </h1>
 
 <div id="badges" align="center">
@@ -20,8 +19,11 @@
 ### :man_technologist: Обо мне:
 
 Я бэкенд разработчик Python.
-- Занимаюсь бэкенд разработкой для веб приложений.
-- Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/ardash_d-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ardash_d)
+- Занимаюсь бэкенд разработкой для веб приложений один год.
+- Опыт работы в команде с ежедневными онлайн встречами.
+- Работа с задачами в трекере
+
+Для связи со мной: [![Telegram Badge](https://img.shields.io/badge/ardash_d-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ardash_d)
 
 ---
 
@@ -35,6 +37,9 @@
 ![Rest API](https://img.shields.io/badge/Rest-API-808080?style=for-the-badge&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=FastAPI&logoColor=white)
 
+---
+### :fire: Статистика:
+[![GitHub Streak](https://streak-stats.demolab.com?user=ardash-ds)](https://git.io/streak-stats)
 
 
 
