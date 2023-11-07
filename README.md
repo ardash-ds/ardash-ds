@@ -20,8 +20,8 @@
 
 Я бэкенд разработчик Python.
 - Занимаюсь бэкенд разработкой для веб приложений один год.
-- Опыт работы в команде с ежедневными онлайн встречами.
-- Работа с задачами в трекере
+- Опыт работы в команде с еженедельными онлайн встречами.
+- Работа с задачами в трекере.
 
 Для связи со мной: [![Telegram Badge](https://img.shields.io/badge/ardash_d-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ardash_d)
 
@@ -40,6 +40,9 @@
 ---
 ### :fire: Статистика:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ardash-ds)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardash-ds&hide=css,javascript,html,mako)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
